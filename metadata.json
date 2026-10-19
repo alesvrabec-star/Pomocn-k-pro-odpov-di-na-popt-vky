@@ -1,0 +1,6 @@
+{
+  "name": "Pomocník pro odpovědi na poptávky",
+  "description": "Jednoduchá webová aplikace pro malíře pokojů pro rychlou přípravu zdvořilé odpovědi na poptávku zákazníka a zjištění chybějících údajů.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
